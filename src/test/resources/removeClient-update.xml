@@ -1,0 +1,6 @@
+<dataset>
+    <Client id="999997" nombre="Scott"  direccion="Bogota"/>
+    <Client id="999995" nombre="Nick"   direccion="Medellin"/>
+    <Client id="999994" nombre="Jordan" direccion="Bucaramanga"/>
+    <Client id="999993" nombre="David"  direccion="Pereira"/>
+</dataset>
